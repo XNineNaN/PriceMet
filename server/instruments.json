@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Guitar",
+    "price": 15,
+    "id": "cf4f4e14-9f70-432d-9055-41a36f705303"
+  },
+  { "name": "Bass", "price": 20, "id": "85a0a25b-e97f-4f2e-adfb-cbf98b04786e" }
+]

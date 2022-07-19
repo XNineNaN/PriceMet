@@ -1,0 +1,29 @@
+POST  http://localhost:5000/api
+content-type: application/json
+
+{
+    "name": "Bass",
+    "price": 20
+}
+
+###
+
+GET  http://localhost:5000/api
+
+###
+
+GET http://localhost:5000/api/a3a7eb67-2eab-4843-9a73-377ec7760e4d
+
+###
+
+PUT  http://localhost:5000/api/9f853bec-28b4-42a0-ba92-2f59a77da9ed
+content-type: application/json
+
+{
+    "name": "Drums",
+    "price": 10
+}
+
+###
+
+DELETE http://localhost:5000/api/dd86439a-1a34-4548-843b-880a8fa0573b
